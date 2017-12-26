@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>Business Casual - Start Bootstrap Theme</title>
+    <script src="http://localhost:8888/app/assets/js/studio-guest.build.js"></script>
 
     <!-- Bootstrap Core CSS -->
     <link href="/static-assets/css/bootstrap.min.css" rel="stylesheet">
